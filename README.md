@@ -30,10 +30,10 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Blogs-Api</h3>
+<h3 align="center">Smith</h3>
 
   <p align="center">
-    Projeto com base em uma aplicação de um blog
+    Projeto com base em uma aplicação de uma loja medieval
     <br />
   </p>
 </div>
@@ -66,15 +66,11 @@
 <!-- SOBRE O PROJETO -->
 ## Sobre o projeto
 
- Neste projeto foi desenvolvido uma API e um banco de dados para a produção de conteúdo para um blog!
+Para este projeto, foi criado uma loja de itens medievais, no formato de uma API, utilizando Typescript.
 
-Essa aplicação foi desenvolvida em Node.js usando o pacote sequelize para fazer um CRUD de posts.
+Foi desenvolvido todas as camadas da aplicação (Models, Service e Controllers) e, por meio dessa aplicação, será possível realizar as operações básicas que se pode fazer em um determinado banco de dados: Criação, Leitura, Atualização e Exclusão (ou CRUD - Create, Read, Update e Delete).
 
-Utilizando endpoints que estarão conectados ao banco de dados seguindo os princípios do REST;
-
-Para fazer um post é necessário usuário e login;
-
-Será necessária a utilização de categorias para os posts.
+Foi criado também alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL..
 
 
 <p align="right">(<a href="#readme-top">de volta para o topo</a>)</p>
@@ -85,7 +81,7 @@ Será necessária a utilização de categorias para os posts.
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java-script" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="50" height="50"/>
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50"/>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/>
