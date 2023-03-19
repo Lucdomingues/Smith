@@ -168,8 +168,8 @@ LINKEDIN - [https://www.linkedin.com/in/lucas-domingues-developer/](https://www.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Lucdomingues/Blogs-Api.svg?style=for-the-badge
-[contributors-url]: https://github.com/Lucdomingues/Blogs-Api/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/Lucdomingues/Smith.svg?style=for-the-badge
+[contributors-url]: https://github.com/Lucdomingues/Smith/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucas-domingues-developer/
 [product-screenshot]: images/screenshot.png
